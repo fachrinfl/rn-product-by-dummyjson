@@ -1,0 +1,12 @@
+{
+  "product": "Product",
+  "category": "Category",
+  "brand": "Brand",
+  "sku": "SKU",
+  "minOrder": "Min. Order",
+  "stock": "Stock",
+  "productDescription": "Product Description",
+  "setting": "Settings",
+  "changeLanguage": "Change Language",
+  "mode": "Mode"
+}

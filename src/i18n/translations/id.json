@@ -1,0 +1,12 @@
+{
+    "product": "Produk",
+    "category": "Kategori",
+    "brand": "Merek",
+    "sku": "SKU",
+    "minOrder": "Min. Pesanan",
+    "stock": "Stok",
+    "productDescription": "Deskripsi Produk",
+    "setting": "Pengaturan",
+    "changeLanguage": "Ubah Bahasa",
+    "mode": "Mode"
+  }
